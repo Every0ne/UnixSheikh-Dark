@@ -6,6 +6,7 @@
 @version	1.0
 @preprocessor	stylus
 ==/UserStyle== */
+
 @-moz-document domain("unixsheikh.com") {
 	body {
 		color: #7d7d7d;
